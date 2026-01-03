@@ -1,0 +1,37 @@
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex.gz(busy)
+*.nav
+*.snm
+*.vrb
+
+# Biber
+*.bcf
+*.run.xml
+
+# Build directories
+_minted*/
+build/
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Keep PDF but ignore compiled versions
+# Uncomment below to ignore PDFs too
+# *.pdf
+
+# Keep only source files in git
