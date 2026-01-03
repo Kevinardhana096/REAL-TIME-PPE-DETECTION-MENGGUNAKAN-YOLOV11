@@ -1,0 +1,11 @@
+# Dataset
+data/
+datasets/
+
+# Training output
+runs/
+logs/
+
+# Environment
+.env
+__pycache__/
